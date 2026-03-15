@@ -1,0 +1,1 @@
+Developed a personal productivity application to help users manage daily  activities and improve lifestyle habits.Features include daily planner,reminder system, timer, and period tracking module.Designed the system to improve  time management and personal health monitoring.
